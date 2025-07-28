@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **javascript**
 
 - 📫 How to reach me **gayathribanoth770@gmail.com**
-- also**https://www.linkedin.com/in/banoth-gayathri-458b55306/**
+- also  **https://www.linkedin.com/in/banoth-gayathri-458b55306/**
 
 - ⚡ Fun fact **I once coded a full birthday surprise website instead of buying a gift!**
 
